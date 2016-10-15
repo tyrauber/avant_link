@@ -6,9 +6,11 @@
 /pkg/
 /spec/reports/
 /spec/examples.txt
+/spec/vcr_cassettes
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/spec/avant_link_initializer.rb
 
 # Used by dotenv library to load environment variables.
 # .env
